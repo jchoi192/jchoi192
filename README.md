@@ -6,7 +6,7 @@
 
 I am a recent software engineering bootcamp grad from General Assembly looking for a junior/entry level software engineer role. I started studying bioengineering in college but took a sharp turn into hospitality and currently work a 5-star hotel in NYC. I am now returning to my passion for engineering except in a new form: CODING!
 
-I am just getting started on this journey so feel free to leave me any comments or constructive criticism! (I won't take it personally 😅)  
+I am just getting started on this journey so feel free view my projects and leave me any comments or constructive criticism! (I won't take it personally 😅)  
   
 
 <a href="https://linkedin.com/in/linkedin.com/in/joseph-choi1/" target="_blank">
